@@ -34,12 +34,9 @@
 ---
 
 ### 🏆 GitHub Analytics 
-<!-- Plugin de estadísticas en tiempo real que recomienda el video -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Altermanns&show_icons=true&theme=radical" alt="Isaac's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altermanns&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+<!-- readme-engineering-analytics-start -->
+<!-- readme-engineering-analytics-end -->
 
 ---
 
