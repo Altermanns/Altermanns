@@ -13,7 +13,7 @@
 - 🎓 Software Engineering Student at **Universidad de las Américas (UDLA)**.
 - ⚙️ Specialized in **Backend Development** and **Data Engineering** (Medallion Architecture).
 - 🚀 Passionate about optimizing databases and building robust ETL pipelines.
-- 📫 How to reach me: **isaac.277.trujillo@gmail.com** or via [LinkedIn](www.linkedin.com/in/trujilloisaac).
+- 📫 How to reach me: **isaac.277.trujillo@gmail.com** or via [LinkedIn]([www.linkedin.com/in/trujilloisaac](https://www.linkedin.com/in/trujilloisaac/)).
 
 ---
 
