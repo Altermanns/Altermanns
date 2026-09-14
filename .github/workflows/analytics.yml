@@ -9,8 +9,30 @@ permissions:
   contents: write
 
 jobs:
-  analytics:
-    uses: maharudraabhishek/maharudraabhishek/.github/workflows/generate-analytics.yml@v1
-    with:
-      github-username: ${{ github.repository_owner }}
-      include-private: false
+  generate-analytics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: GitHub Engineering Analytics
+        id: analytics
+        uses: maharudraabhishek/maharudraabhishek@v1.0
+        with:
+          github-username: ${{ github.repository_owner }}
+          include-private: false
+          update-readme: true
+          attribution: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push analytics changes
+        if: steps.analytics.outputs.changes-detected == 'true'
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "chore(stats): refresh GitHub analytics"
+          git push

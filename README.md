@@ -38,15 +38,57 @@
 ### 🏆 GitHub Analytics
 
 <!-- github-engineering-analytics:start -->
+<!-- github-engineering-analytics:end -->
 
-## <!-- github-engineering-analytics:end -->
+---
 
 ### 📁 Featured Projects
 
-<!-- Tabla con proyectos como lo hace AristiDevs -->
+<p align="center">
+  <a href="LINK_AL_REPO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altermanns&repo=PROYECTO_1&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  </a>
+  <a href="LINK_AL_REPO">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Altermanns&repo=PROYECTO_2&theme=dracula&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" />
+  </a>
+</p>
 
-| Project Name                       | Description                                                                            | Tech           |
-| ---------------------------------- | -------------------------------------------------------------------------------------- | -------------- |
-| **[Project 1 Name](LINK_AL_REPO)** | End-to-end ETL processes to migrate and structure data from SQL Server to a Data Lake. | PySpark, SQL   |
-| **[Project 2 Name](LINK_AL_REPO)** | Mock APIs to simulate functionalities and streamline development cycles.               | .NET, C#       |
-| **[Project 3 Name](LINK_AL_REPO)** | (Pon aquí algún proyecto web de Django o IA que tengas)                                | Python, Django |
+<br />
+
+<table>
+  <tr>
+    <th width="30%">🚀 Project</th>
+    <th width="50%">📝 Description</th>
+    <th width="20%">🛠️ Tech Stack</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong><a href="LINK_AL_REPO">ETL Data Lake Pipeline</a></strong>
+    </td>
+    <td>End-to-end ETL processes to migrate and structure data from SQL Server to a Data Lake using Medallion Architecture (Bronze/Silver/Gold).</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong><a href="LINK_AL_REPO">Mock APIs Platform</a></strong>
+    </td>
+    <td>Mock APIs to simulate backend functionalities and streamline frontend development cycles with realistic data.</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong><a href="LINK_AL_REPO">Django Web App</a></strong>
+    </td>
+    <td>Full-stack web application with Django backend, user authentication, and real-time data dashboards.</td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+    </td>
+  </tr>
+</table>
