@@ -16,5 +16,7 @@ jobs:
         
       - name: GitHub Engineering Analytics
         uses: maharudraabhishek/maharudraabhishek@v1.0
+        with:
+          insert-readme-markers: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
