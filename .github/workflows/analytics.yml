@@ -1,9 +1,11 @@
 name: GitHub Engineering Analytics
 
+name: GitHub Engineering Analytics
+
 on:
   schedule:
-    - cron: "0 0 * * *" 
-  workflow_dispatch: 
+    - cron: "0 0 * * *" # Se actualiza automáticamente cada medianoche
+  workflow_dispatch: # Permite ejecutar la acción de forma manual
 
 jobs:
   generate-analytics:
@@ -17,6 +19,6 @@ jobs:
       - name: GitHub Engineering Analytics
         uses: maharudraabhishek/maharudraabhishek@v1.0
         with:
-          insert-readme-markers: "true"
+          insert-readme-markers: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
