@@ -13,7 +13,7 @@
 - 🎓 Software Engineering Student at **Universidad de las Américas (UDLA)**.
 - ⚙️ Specialized in **Backend Development** and **Data Engineering** (Medallion Architecture).
 - 🚀 Passionate about optimizing databases and building robust ETL pipelines.
-- 📫 How to reach me: **isaac.277.trujillo@gmail.com** or via [LinkedIn](AQUI_TU_LINK_DE_LINKEDIN).
+- 📫 How to reach me: **isaac.277.trujillo@gmail.com** or via [LinkedIn](www.linkedin.com/in/trujilloisaac).
 
 ---
 
@@ -36,9 +36,9 @@
 ### 🏆 GitHub Analytics 
 <!-- Plugin de estadísticas en tiempo real que recomienda el video -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=radical" alt="Isaac's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Altermanns&show_icons=true&theme=radical" alt="Isaac's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altermanns&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
