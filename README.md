@@ -35,8 +35,8 @@
 
 ### 🏆 GitHub Analytics 
 
-<!-- analytics:start -->
-<!-- analytics:end -->
+<!-- gh-analytics-start -->
+<!-- gh-analytics-end -->
 ---
 
 ### 📁 Featured Projects 
