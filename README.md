@@ -36,7 +36,6 @@
 ### 🏆 GitHub Analytics 
 
 <!-- readme-engineering-analytics-start -->
-<!-- readme-engineering-analytics-end -->
 
 ---
 
