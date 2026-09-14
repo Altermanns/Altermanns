@@ -1,23 +1,16 @@
-name: GitHub Engineering Analytics
-
+name: Update GitHub Analytics
 
 on:
+  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *" # Se actualiza automáticamente cada medianoche
-  workflow_dispatch: # Permite ejecutar la acción de forma manual
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
 
 jobs:
-  generate-analytics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - name: Checkout repositorio
-        uses: actions/checkout@v3
-        
-      - name: GitHub Engineering Analytics
-        uses: maharudraabhishek/maharudraabhishek@v1.0
-        with:
-          insert-readme-markers: true
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  analytics:
+    uses: maharudraabhishek/maharudraabhishek/.github/workflows/generate-analytics.yml@v1
+    with:
+      github-username: ${{ github.repository_owner }}
+      include-private: false

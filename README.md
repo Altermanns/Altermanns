@@ -9,7 +9,8 @@
 
 ---
 
-### 👨‍💻 About Me 
+### 👨‍💻 About Me
+
 - 🎓 Software Engineering Student at **Universidad de las Américas (UDLA)**.
 - ⚙️ Specialized in **Backend Development** and **Data Engineering** (Medallion Architecture).
 - 🚀 Passionate about optimizing databases and building robust ETL pipelines.
@@ -17,7 +18,8 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools 
+### 🛠️ Tech Stack & Tools
+
 <!-- Etiquetas de Shields.io (Badges) recomendadas en el video [00:06:25] -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -33,16 +35,18 @@
 
 ---
 
-### 🏆 GitHub Analytics 
+### 🏆 GitHub Analytics
 
-<!-- gh-analytics-start -->
-<!-- gh-analytics-end -->
----
+<!-- github-engineering-analytics:start -->
 
-### 📁 Featured Projects 
+## <!-- github-engineering-analytics:end -->
+
+### 📁 Featured Projects
+
 <!-- Tabla con proyectos como lo hace AristiDevs -->
-| Project Name | Description | Tech |
-|---|---|---|
-| **[Project 1 Name](LINK_AL_REPO)** | End-to-end ETL processes to migrate and structure data from SQL Server to a Data Lake. | PySpark, SQL |
-| **[Project 2 Name](LINK_AL_REPO)** | Mock APIs to simulate functionalities and streamline development cycles. | .NET, C# |
-| **[Project 3 Name](LINK_AL_REPO)** | (Pon aquí algún proyecto web de Django o IA que tengas) | Python, Django |
+
+| Project Name                       | Description                                                                            | Tech           |
+| ---------------------------------- | -------------------------------------------------------------------------------------- | -------------- |
+| **[Project 1 Name](LINK_AL_REPO)** | End-to-end ETL processes to migrate and structure data from SQL Server to a Data Lake. | PySpark, SQL   |
+| **[Project 2 Name](LINK_AL_REPO)** | Mock APIs to simulate functionalities and streamline development cycles.               | .NET, C#       |
+| **[Project 3 Name](LINK_AL_REPO)** | (Pon aquí algún proyecto web de Django o IA que tengas)                                | Python, Django |
