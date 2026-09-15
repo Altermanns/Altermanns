@@ -64,48 +64,68 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>🍴 Forks</b></td>
-      <td><b>🛠️ Issues</b></td>
-      <td><b>🧰 Tech</b></td>
+      <td><b>�️ Proyecto</b></td>
+      <td><b>🧰 Tech Stack</b></td>
+      <td><b>� Área</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/Altermanns/Saboreate"><b>Sistema de Gestión de Pedidos Saboreate</b></a><br/><sub>Aplicación administrativa para la gestión eficiente de clientes, menú de productos y control de pedidos.</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
       <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/OpenXava-0078D4?style=flat&logo=java&logoColor=white"/>
+        <a href="https://github.com/Altermanns/Saboreate"><b>Sistema de Gestión de Pedidos Saboreate</b></a>
+        <br/>
+        <sub>Aplicación administrativa para la gestión eficiente de clientes, menú de productos y control de pedidos.</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/OpenXava-0078D4?style=for-the-badge&logo=java&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Backend-6DB33F?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/ERP%20%2F%20Admin-8B5CF6?style=for-the-badge&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Altermanns/Textil-APP"><b>Sistema de Gestión Textil (Textil-APP)</b></a><br/><sub>Plataforma orientada a la administración de inventarios, productos y procesos operativos para negocios del sector textil.</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <a href="https://github.com/Altermanns/Textil-APP"><b>Sistema de Gestión Textil (Textil-APP)</b></a>
+        <br/>
+        <sub>Plataforma orientada a la administración de inventarios, productos y procesos operativos para negocios del sector textil.</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Inventario%20%2F%20Negocios-F59E0B?style=for-the-badge&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Altermanns/CatequesisApp"><b>Plataforma de Gestión de Catequesis (CatequesisApp)</b></a><br/><sub>Sistema de administración para programas de catequesis, diseñado para facilitar el registro de alumnos, seguimiento de asistencia y organización de grupos.</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
       <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Keycloak-0078D4?style=flat&logo=keycloak&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+        <a href="https://github.com/Altermanns/CatequesisApp"><b>Plataforma de Gestión de Catequesis (CatequesisApp)</b></a>
+        <br/>
+        <sub>Sistema de administración para programas de catequesis, diseñado para facilitar el registro de alumnos, seguimiento de asistencia y organización de grupos.</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Keycloak-0078D4?style=for-the-badge&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Full--Stack-0EA5E9?style=for-the-badge&logoColor=white"/>
+        <br/>
+        <img src="https://img.shields.io/badge/Auth%20%2F%20Organizacional-EC4899?style=for-the-badge&logoColor=white"/>
       </td>
     </tr>
   </tbody>
