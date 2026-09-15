@@ -61,47 +61,51 @@
 
 ## 🏆 Featured Projects
 
-
-
 <table>
   <thead align="center">
     <tr border: none;>
       <td><b>🎁 Projects</b></td>
       <td><b>⭐ Stars</b></td>
-      <td><b>� Forks</b></td>
+      <td><b>🍴 Forks</b></td>
       <td><b>🛠️ Issues</b></td>
-      <td><b>� Tech</b></td>
+      <td><b>🧰 Tech</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><a href="LINK_AL_REPO_1"><b>ETL Data Lake Pipeline</b></a><br/><sub>End-to-end ETL with Medallion Architecture migrating SQL Server → Data Lake</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/REPO_1?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/REPO_1?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/REPO_1?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><a href="https://github.com/Altermanns/Saboreate"><b>Sistema de Gestión de Pedidos Saboreate</b></a><br/><sub>Aplicación administrativa para la gestión eficiente de clientes, menú de productos y control de pedidos.</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/Saboreate?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
       <td>
-        <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQL-00758F?style=flat&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenXava-0078D4?style=flat&logo=java&logoColor=white"/>
       </td>
     </tr>
     <tr>
-      <td><a href="LINK_AL_REPO_2"><b>Mock APIs Platform</b></a><br/><sub>Realistic mock APIs in .NET to accelerate frontend and testing cycles</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/REPO_2?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/REPO_2?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/REPO_2?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-      </td>
-    </tr>
-    <tr>
-      <td><a href="LINK_AL_REPO_3"><b>Django Full-Stack Web App</b></a><br/><sub>Django app with auth, real-time dashboards and data visualization</sub></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/REPO_3?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/REPO_3?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/REPO_3?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><a href="https://github.com/Altermanns/Textil-APP"><b>Sistema de Gestión Textil (Textil-APP)</b></a><br/><sub>Plataforma orientada a la administración de inventarios, productos y procesos operativos para negocios del sector textil.</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/Textil-APP?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Altermanns/CatequesisApp"><b>Plataforma de Gestión de Catequesis (CatequesisApp)</b></a><br/><sub>Sistema de administración para programas de catequesis, diseñado para facilitar el registro de alumnos, seguimiento de asistencia y organización de grupos.</sub></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Altermanns/CatequesisApp?style=flat-square&labelColor=0d1117&color=58a6ff"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Keycloak-0078D4?style=flat&logo=keycloak&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
       </td>
     </tr>
   </tbody>
